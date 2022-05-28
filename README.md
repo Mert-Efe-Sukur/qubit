@@ -1,2 +1,2 @@
 # qubit
-Display a qubit with HTML.
+Display a qubit.
